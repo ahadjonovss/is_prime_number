@@ -1,0 +1,20 @@
+name: is_prime_number
+description: >-
+  Prime numbers for Dart: a primality test that stays exact at 64 bits, a sieve,
+  factorisation, and a lazy stream of primes. Pure Dart, no dependencies.
+version: 0.1.0
+repository: https://github.com/ahadjonovss/is_prime_number
+issue_tracker: https://github.com/ahadjonovss/is_prime_number/issues
+
+topics:
+  - math
+  - primes
+  - number-theory
+  - algorithms
+
+environment:
+  sdk: ^3.3.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
